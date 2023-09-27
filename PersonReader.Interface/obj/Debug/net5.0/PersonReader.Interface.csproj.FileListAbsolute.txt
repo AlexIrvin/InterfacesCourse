@@ -1,0 +1,11 @@
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.deps.json
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\bin\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.AssemblyInfo.cs
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.dll
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\refint\PersonReader.Interface.dll
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\PersonReader.Interface.pdb
+C:\Users\Alex\source\repos\InterfacesCourse\Extensibility\PersonReader.Interface\obj\Debug\net5.0\ref\PersonReader.Interface.dll
